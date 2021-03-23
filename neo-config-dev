@@ -1,2 +1,7 @@
+spring:
+  application:
+    name: live
+  profiles:
+      active: dev
 neo:
     hello: hello Im dev
